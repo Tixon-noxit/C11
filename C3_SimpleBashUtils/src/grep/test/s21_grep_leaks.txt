@@ -1,0 +1,360 @@
+test/test_1_grep.txt:I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) 
+test/test_1_grep.txt:for 386(486) AT clones. This has been brewing since april, and is starting to get ready. 
+test/test_1_grep.txt:I've currently ported bash(1.08) and gcc(1.40), and THINGS seem to work. This implies that I'll 
+test/test_1_grep.txt:get something practical within a few months, and I'd like to know what features most people would 
+test/test_1_grep.txt:PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable 
+test/test_1_grep.txt:(uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, 
+test/test_2_grep.txt:I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) 
+test/test_2_grep.txt:for 386(486) AT clones. This has been brewing since april, and is starting to get ready. 
+test/test_2_grep.txt:I've currently ported bash(1.08) and gcc(1.40), and THINGS seem to work. This implies that I'll 
+test/test_2_grep.txt:get something practical within a few months, and I'd like to know what features most people would 
+test/test_2_grep.txt:PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable 
+test/test_2_grep.txt:(uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, 
+Process:         s21_grep [77922]
+Path:            /Volumes/VOLUME/*/s21_grep
+Load Address:    0x106af6000
+Identifier:      s21_grep
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [77921]
+
+Date/Time:       2023-11-07 19:35:22.524 +0300
+Launch Time:     2023-11-07 19:35:21.775 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         460K
+Physical footprint (peak):  460K
+----
+
+leaks Report Version: 4.0
+Process 77922: 168 nodes malloced for 12 KB
+Process 77922: 0 leaks for 0 total leaked bytes.
+
+test/test_1_grep.txt:I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) 
+test/test_1_grep.txt:for 386(486) AT clones. This has been brewing since april, and is starting to get ready. 
+test/test_1_grep.txt:I've currently ported bash(1.08) and gcc(1.40), and THINGS seem to work. This implies that I'll 
+test/test_1_grep.txt:get something practical within a few months, and I'd like to know what features most people would 
+test/test_1_grep.txt:PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable 
+test/test_1_grep.txt:(uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, 
+test/test_2_grep.txt:I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) 
+test/test_2_grep.txt:for 386(486) AT clones. This has been brewing since april, and is starting to get ready. 
+test/test_2_grep.txt:I've currently ported bash(1.08) and gcc(1.40), and THINGS seem to work. This implies that I'll 
+test/test_2_grep.txt:get something practical within a few months, and I'd like to know what features most people would 
+test/test_2_grep.txt:PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable 
+test/test_2_grep.txt:(uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, 
+Process:         s21_grep [77926]
+Path:            /Volumes/VOLUME/*/s21_grep
+Load Address:    0x1010c7000
+Identifier:      s21_grep
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [77925]
+
+Date/Time:       2023-11-07 19:35:23.164 +0300
+Launch Time:     2023-11-07 19:35:22.584 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         492K
+Physical footprint (peak):  492K
+----
+
+leaks Report Version: 4.0
+Process 77926: 168 nodes malloced for 12 KB
+Process 77926: 0 leaks for 0 total leaked bytes.
+
+test/test_1_grep.txt:Hello everybody out there using minix -
+test/test_1_grep.txt:
+test/test_1_grep.txt:I'd like any feedback on things people like/dislike in minix, as my OS resembles it somewhat 
+test/test_1_grep.txt:(same physical layout of the file-system (due to practical reasons) among other things).
+test/test_1_grep.txt:
+test/test_1_grep.txt:want. Any suggestions are welcome, but I won't promise I'll implement them :-)
+test/test_1_grep.txt:
+test/test_1_grep.txt:
+test/test_1_grep.txt:Linus (torvalds@kruuna.helsinki.fi)
+test/test_1_grep.txt:
+test/test_1_grep.txt:as that's all I have :-(.
+test/test_1_grep.txt:— Linus Torvalds
+test/test_2_grep.txt:Hello everybody out there using minix -
+test/test_2_grep.txt:
+test/test_2_grep.txt:I'd like any feedback on things people like/dislike in minix, as my OS resembles it somewhat 
+test/test_2_grep.txt:(same physical layout of the file-system (due to practical reasons) among other things).
+test/test_2_grep.txt:
+test/test_2_grep.txt:want. Any suggestions are welcome, but I won't promise I'll implement them :-)
+test/test_2_grep.txt:
+test/test_2_grep.txt:
+test/test_2_grep.txt:Linus (torvalds@kruuna.helsinki.fi)
+test/test_2_grep.txt:
+test/test_2_grep.txt:as that's all I have :-(.
+test/test_2_grep.txt:— Linus Torvalds
+Process:         s21_grep [77937]
+Path:            /Volumes/VOLUME/*/s21_grep
+Load Address:    0x102693000
+Identifier:      s21_grep
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [77936]
+
+Date/Time:       2023-11-07 19:35:23.813 +0300
+Launch Time:     2023-11-07 19:35:23.223 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         480K
+Physical footprint (peak):  480K
+----
+
+leaks Report Version: 4.0
+Process 77937: 168 nodes malloced for 12 KB
+Process 77937: 0 leaks for 0 total leaked bytes.
+
+test/test_1_grep.txt:6
+test/test_2_grep.txt:6
+Process:         s21_grep [77940]
+Path:            /Volumes/VOLUME/*/s21_grep
+Load Address:    0x10e0eb000
+Identifier:      s21_grep
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [77939]
+
+Date/Time:       2023-11-07 19:35:24.538 +0300
+Launch Time:     2023-11-07 19:35:23.877 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         452K
+Physical footprint (peak):  452K
+----
+
+leaks Report Version: 4.0
+Process 77940: 168 nodes malloced for 12 KB
+Process 77940: 0 leaks for 0 total leaked bytes.
+
+test/test_1_grep.txt
+test/test_2_grep.txt
+Process:         s21_grep [77951]
+Path:            /Volumes/VOLUME/*/s21_grep
+Load Address:    0x105fec000
+Identifier:      s21_grep
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [77950]
+
+Date/Time:       2023-11-07 19:35:25.200 +0300
+Launch Time:     2023-11-07 19:35:24.620 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         484K
+Physical footprint (peak):  484K
+----
+
+leaks Report Version: 4.0
+Process 77951: 168 nodes malloced for 12 KB
+Process 77951: 0 leaks for 0 total leaked bytes.
+
+test/test_1_grep.txt:3:I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) 
+test/test_1_grep.txt:4:for 386(486) AT clones. This has been brewing since april, and is starting to get ready. 
+test/test_1_grep.txt:8:I've currently ported bash(1.08) and gcc(1.40), and THINGS seem to work. This implies that I'll 
+test/test_1_grep.txt:9:get something practical within a few months, and I'd like to know what features most people would 
+test/test_1_grep.txt:15:PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable 
+test/test_1_grep.txt:16:(uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, 
+test/test_2_grep.txt:3:I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) 
+test/test_2_grep.txt:4:for 386(486) AT clones. This has been brewing since april, and is starting to get ready. 
+test/test_2_grep.txt:8:I've currently ported bash(1.08) and gcc(1.40), and THINGS seem to work. This implies that I'll 
+test/test_2_grep.txt:9:get something practical within a few months, and I'd like to know what features most people would 
+test/test_2_grep.txt:15:PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable 
+test/test_2_grep.txt:16:(uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, 
+Process:         s21_grep [77963]
+Path:            /Volumes/VOLUME/*/s21_grep
+Load Address:    0x107a19000
+Identifier:      s21_grep
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [77962]
+
+Date/Time:       2023-11-07 19:35:25.812 +0300
+Launch Time:     2023-11-07 19:35:25.262 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         464K
+Physical footprint (peak):  464K
+----
+
+leaks Report Version: 4.0
+Process 77963: 168 nodes malloced for 12 KB
+Process 77963: 0 leaks for 0 total leaked bytes.
+
+I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) 
+for 386(486) AT clones. This has been brewing since april, and is starting to get ready. 
+I've currently ported bash(1.08) and gcc(1.40), and THINGS seem to work. This implies that I'll 
+get something practical within a few months, and I'd like to know what features most people would 
+PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable 
+(uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, 
+I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) 
+for 386(486) AT clones. This has been brewing since april, and is starting to get ready. 
+I've currently ported bash(1.08) and gcc(1.40), and THINGS seem to work. This implies that I'll 
+get something practical within a few months, and I'd like to know what features most people would 
+PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable 
+(uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, 
+Process:         s21_grep [77966]
+Path:            /Volumes/VOLUME/*/s21_grep
+Load Address:    0x10a26c000
+Identifier:      s21_grep
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [77965]
+
+Date/Time:       2023-11-07 19:35:26.383 +0300
+Launch Time:     2023-11-07 19:35:25.870 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         488K
+Physical footprint (peak):  488K
+----
+
+leaks Report Version: 4.0
+Process 77966: 168 nodes malloced for 12 KB
+Process 77966: 0 leaks for 0 total leaked bytes.
+
+test/test_1_grep.txt:I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) 
+test/test_1_grep.txt:for 386(486) AT clones. This has been brewing since april, and is starting to get ready. 
+test/test_1_grep.txt:I've currently ported bash(1.08) and gcc(1.40), and THINGS seem to work. This implies that I'll 
+test/test_1_grep.txt:get something practical within a few months, and I'd like to know what features most people would 
+test/test_1_grep.txt:PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable 
+test/test_1_grep.txt:(uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, 
+test/test_2_grep.txt:I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) 
+test/test_2_grep.txt:for 386(486) AT clones. This has been brewing since april, and is starting to get ready. 
+test/test_2_grep.txt:I've currently ported bash(1.08) and gcc(1.40), and THINGS seem to work. This implies that I'll 
+test/test_2_grep.txt:get something practical within a few months, and I'd like to know what features most people would 
+test/test_2_grep.txt:PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable 
+test/test_2_grep.txt:(uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, 
+Process:         s21_grep [77971]
+Path:            /Volumes/VOLUME/*/s21_grep
+Load Address:    0x109db7000
+Identifier:      s21_grep
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [77970]
+
+Date/Time:       2023-11-07 19:35:26.954 +0300
+Launch Time:     2023-11-07 19:35:26.441 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         468K
+Physical footprint (peak):  468K
+----
+
+leaks Report Version: 4.0
+Process 77971: 168 nodes malloced for 12 KB
+Process 77971: 0 leaks for 0 total leaked bytes.
+
+test/test_1_grep.txt:Hello everybody out there using minix -
+test/test_1_grep.txt:I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) 
+test/test_1_grep.txt:for 386(486) AT clones. This has been brewing since april, and is starting to get ready. 
+test/test_1_grep.txt:I'd like any feedback on things people like/dislike in minix, as my OS resembles it somewhat 
+test/test_1_grep.txt:I've currently ported bash(1.08) and gcc(1.40), and THINGS seem to work. This implies that I'll 
+test/test_1_grep.txt:get something practical within a few months, and I'd like to know what features most people would 
+test/test_1_grep.txt:Linus (torvalds@kruuna.helsinki.fi)
+test/test_1_grep.txt:PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable 
+test/test_1_grep.txt:(uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, 
+test/test_2_grep.txt:Hello everybody out there using minix -
+test/test_2_grep.txt:I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) 
+test/test_2_grep.txt:for 386(486) AT clones. This has been brewing since april, and is starting to get ready. 
+test/test_2_grep.txt:I'd like any feedback on things people like/dislike in minix, as my OS resembles it somewhat 
+test/test_2_grep.txt:I've currently ported bash(1.08) and gcc(1.40), and THINGS seem to work. This implies that I'll 
+test/test_2_grep.txt:get something practical within a few months, and I'd like to know what features most people would 
+test/test_2_grep.txt:Linus (torvalds@kruuna.helsinki.fi)
+test/test_2_grep.txt:PS. Yes - it's free of any minix code, and it has a multi-threaded fs. It is NOT portable 
+test/test_2_grep.txt:(uses 386 task switching etc), and it probably never will support anything other than AT-harddisks, 
+Process:         s21_grep [77974]
+Path:            /Volumes/VOLUME/*/s21_grep
+Load Address:    0x10b323000
+Identifier:      s21_grep
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [77973]
+
+Date/Time:       2023-11-07 19:35:27.531 +0300
+Launch Time:     2023-11-07 19:35:27.013 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         500K
+Physical footprint (peak):  500K
+----
+
+leaks Report Version: 4.0
+Process 77974: 168 nodes malloced for 12 KB
+Process 77974: 0 leaks for 0 total leaked bytes.
+
+test/test_1_grep.txt:and
+test/test_1_grep.txt:and
+test/test_1_grep.txt:and
+test/test_1_grep.txt:and
+test/test_1_grep.txt:and
+test/test_1_grep.txt:and
+test/test_1_grep.txt:and
+test/test_2_grep.txt:and
+test/test_2_grep.txt:and
+test/test_2_grep.txt:and
+test/test_2_grep.txt:and
+test/test_2_grep.txt:and
+test/test_2_grep.txt:and
+test/test_2_grep.txt:and
+Process:         s21_grep [77977]
+Path:            /Volumes/VOLUME/*/s21_grep
+Load Address:    0x1090e8000
+Identifier:      s21_grep
+Version:         ???
+Code Type:       X86-64
+Platform:        macOS
+Parent Process:  leaks [77976]
+
+Date/Time:       2023-11-07 19:35:28.103 +0300
+Launch Time:     2023-11-07 19:35:27.589 +0300
+OS Version:      macOS 11.6.6 (20G624)
+Report Version:  7
+Analysis Tool:   /Applications/Xcode.app/Contents/Developer/usr/bin/leaks
+Analysis Tool Version:  Xcode 13.2.1 (13C100)
+
+Physical footprint:         436K
+Physical footprint (peak):  436K
+----
+
+leaks Report Version: 4.0
+Process 77977: 168 nodes malloced for 12 KB
+Process 77977: 0 leaks for 0 total leaked bytes.
+

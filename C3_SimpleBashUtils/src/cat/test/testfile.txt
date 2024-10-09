@@ -1,0 +1,12 @@
+
+
+What is Lorem Ipsum?
+	Lorem Ipsum is dummy text often used in printing and web design. 
+    Lorem Ipsum has been the industry's standard dummy text ever since the early 16th century. 
+
+
+
+An unnamed printer at the time created a large collection of type sizes and shapes using Lorem Ipsum to produce type specimens. 
+	Lorem Ipsum has not only successfully survived five centuries without noticeable change, but has also entered electronic design. 
+
+It was popularized in modern times by the publication of Letraset sheets containing Lorem Ipsum sample sheets in the 1960s, and, more recently, by electronic typesetting programs like Aldus 		PageMaker which use Lorem Ipsum in their templates.

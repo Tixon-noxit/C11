@@ -1,0 +1,4 @@
+minix
+torvalds
+THINGS
+and
